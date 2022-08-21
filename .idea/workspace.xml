@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f35793-3996-485a-928a-277ca205e9c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad4.java" afterDir="false" />
+    <list default="true" id="d1f35793-3996-485a-928a-277ca205e9c9" name="Changes" comment="задание по строкам">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.zad4">
+}</component>
+  <component name="RunManager" selected="Application.zad3">
     <configuration name="dz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dz2" />
       <module name="dz6" />
@@ -82,9 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zad3" />
         <item itemvalue="Application.zad4" />
         <item itemvalue="Application.zad2" />
-        <item itemvalue="Application.zad3" />
         <item itemvalue="Application.dz2" />
         <item itemvalue="Application.zad1" />
       </list>
@@ -99,8 +95,19 @@
       <option name="presentableId" value="Default" />
       <updated>1659844504404</updated>
       <workItem from="1659844506086" duration="4831000" />
-      <workItem from="1659851356534" duration="158000" />
+      <workItem from="1659851356534" duration="5362000" />
+      <workItem from="1660381134508" duration="49000" />
+      <workItem from="1660414450168" duration="434000" />
+      <workItem from="1661089647907" duration="3408000" />
     </task>
+    <task id="LOCAL-00001" summary="задание по строкам">
+      <created>1659851750853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659851750854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +123,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="задание по строкам" />
+    <option name="LAST_COMMIT_MESSAGE" value="задание по строкам" />
   </component>
 </project>
